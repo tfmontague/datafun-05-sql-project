@@ -1,8 +1,13 @@
-# datafun-05-sql-project - P5: Python and SQL Project
+# datafun-05-sql-project - P5: Python and SQL Project - VCR Store Manager
 
 ## Overview
 
 This repository integrates Python and SQL, focusing on database interactions using SQLite. This project introduces logging, a useful tool for debugging and monitoring projects, and involves creating and managing a database, building a schema, and performing various SQL operations, including queries with joins, filters, and aggregations
+
+Script Purpose: VCR Store Manager
+
+Script Description: This script manages a database for a VCR rental store. It includes functionalities
+for managing VCRs, customers, and rental transactions.
 
 ## Project Stucture & Deliverables
 

@@ -10,7 +10,8 @@ This repository integrates Python and SQL, focusing on database interactions usi
 - `README.md`: Provides an overview of the project, as well as instructions for setting up and executing the environment.
 - `requirements.txt`: Lists all packages required for the project.
 - `vcr_manager.py`: Python file
-- SQL files: SQL statements and queries to perform various SQL commands 
+- SQL files: SQL statements and queries to perform various SQL commands
+- Query results: csv files capturing results of all SQL queries
 
 
 ## Environment Setup & How to Install the Project
